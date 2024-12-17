@@ -1,0 +1,10 @@
+MANIFEST.in
+README.md
+neon.py
+pyproject.toml
+setup.py
+neon.egg-info/PKG-INFO
+neon.egg-info/SOURCES.txt
+neon.egg-info/dependency_links.txt
+neon.egg-info/requires.txt
+neon.egg-info/top_level.txt

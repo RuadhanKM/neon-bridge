@@ -1,0 +1,14 @@
+Metadata-Version: 2.1
+Name: neon
+Version: 0.0.1
+Summary: A bridge layer for matrix emulation.
+Home-page: https://github.com/RuadhanKM/neon-bridge
+Author: RuadhanKM
+License: The MIT License
+Requires-Python: >=3.10,<3.12
+Description-Content-Type: text/markdown
+Requires-Dist: adafruit-circuitpython-matrixportal
+
+# Neon Bridge
+
+This is a layer that wraps browser and embeded code for the Neon ysws.
